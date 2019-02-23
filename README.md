@@ -10,4 +10,4 @@ Under this project -
 4. CLV_Margin_Modeling.ipynb --> margin modeling notebook
 5. CLV_Calculations.ipynb --> used results from both churn and margin models to calculate customer future value
 
-references - CLV-1, CLV-2, CLV-3
+references - CLV-1.pdf, CLV-2.pdf, CLV-3.pdf
